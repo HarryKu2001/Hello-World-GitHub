@@ -1,4 +1,4 @@
 # Hello-World-GitHub
-Hello I am Ku Wai Kuen at CUHK CENG
+Hello I'm Ku Wai Kuen!
 
-My student Number is 1155000000.
+My student Number is 1155160201.
